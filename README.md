@@ -69,7 +69,7 @@ blog-news-site/
 
 ## Live Demo
 
-Check out the live version of the site: [Live Demo](https://github.com/muteeurrehman28/blog-news-site/index.html)
+Check out the live version of the site: [Live Demo](https://muteeurrehman28.github.io/blog-news-site/)
 
 ## Contributing
 
