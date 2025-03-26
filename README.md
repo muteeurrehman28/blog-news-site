@@ -8,6 +8,8 @@ A responsive blog and news website built with semantic HTML, Bootstrap, and Java
 - [Installation](#installation)
 - [Usage](#usage)
 - [Directory Structure](#directory-structure)
+- [Screenshots](#screenshots)
+- [Live Demo](#live-demo)
 - [Contributing](#contributing)
 - [License](#license)
 - [Contact](#contact)
@@ -60,6 +62,15 @@ blog-news-site/
 ├── script.js        # Custom JavaScript functionality
 └── assets/          # Additional resources (images, fonts, etc.)
 ```
+
+## Screenshots
+
+![Screenshot 1](assets/screenshot1.png)
+![Screenshot 2](assets/screenshot2.png)
+
+## Live Demo
+
+Check out the live version of the site: [Live Demo](https://your-live-demo-link.com)
 
 ## Contributing
 
