@@ -63,14 +63,13 @@ blog-news-site/
 └── assets/          # Additional resources (images, fonts, etc.)
 ```
 
-## Screenshots
+## Screenshot
 
-![Screenshot 1](assets/screenshot1.png)
-![Screenshot 2](assets/screenshot2.png)
+![Screenshot](assets/screenshot.png)
 
 ## Live Demo
 
-Check out the live version of the site: [Live Demo](https://your-live-demo-link.com)
+Check out the live version of the site: [Live Demo](https://github.com/muteeurrehman28/blog-news-site/index.html)
 
 ## Contributing
 
