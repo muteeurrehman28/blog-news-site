@@ -96,6 +96,6 @@ Distributed under the MIT License. See the `LICENSE` file for more details.
 
 ## Contact
 
-Your Name - your.email@example.com
+Your Name - muteekhan06@gmail.com
 
 Project Link: [https://github.com/muteeurrehman28/blog-news-site](https://github.com/muteeurrehman28/blog-news-site)
